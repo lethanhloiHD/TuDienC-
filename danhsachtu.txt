@@ -1,0 +1,120 @@
+Acer Darius
+1
+Acer
+Androi 8.0, ket hop Windows 10 cung su tich hop cua Appstore...
+2347723
+Hp Dasua
+1
+Hp
+Cpu: 3200M, chip SnapDragon dual core,..
+237412
+Dell Sasung
+1
+Dell
+Nap man hinh vung voi RAM 4G va o SSD 256GB,...
+593020
+Dell 7223s
+1
+Dell
+Operation System: Windows 10 Home (64bit). L5 Cache 5Mb,...
+1254000
+Trung ran
+12
+trung
+mi chinh hanh
+ran trung len
+trung luoc
+12
+trung
+bot canh
+luoc trung len
+trung op
+12
+trung hay kho
+Mam va hat tieu
+Op trung len roi cham mam
+Rau muong luoc
+12
+Rau muong, sau
+mam mi chinh
+Luoc rau muong voi nuoc
+cai bap xao
+12
+cai bap, mi tom
+hat nem
+Ngam mi tom roi xao lan voi cai bap
+Ca ran
+12
+Ca ro phi, ca chi
+Mam
+Gia mo roi tha ca vao ran
+ca sot ca chua
+12
+ca, ca chua
+hat nem
+ran ca roi sot voi ca chua
+Dau ran
+12
+dau, dau mo
+mam
+ran dau cung vs dau mo
+Dau luoc
+12
+dau, nuoc
+hat nem
+Luoc dau voi nuoc soi
+Gia cay
+12
+Suong lon
+hat nem, mi chinh
+Gieng va suong chat ra roi dun
+Canh bi suong
+12
+Bi do, suong lon
+Hat nem, hanh, mi chinh
+Dun suong va bi chin
+Canh khoai so ninh suong
+12
+khoai so, suong
+thia la
+Ninh suong voi khoai
+Canh rau mung toi
+12
+rau mung toi
+chanh
+Dung sui nuoc roi tha rau
+Canh rau muong
+12
+rau muong
+sau
+dun sui nuoc roi cho rau vao
+Canh rau den
+12
+rau den
+mi chinh, bot canh
+dun rau va nuoc soi
+Canh ca chua
+12
+Canh ca chua
+hat nem
+dun nuoc va ca chua
+Canh cua
+12
+cua, rau day
+muoi
+dun cuoi va rau den chin
+thit xao hanh tay
+12
+hanh tay, thit
+muoi
+xao thit va hanh tay den chin
+Ca hap
+12
+ca, bia
+mi chinh
+hap ca cung bia
+Thit bam hanh
+12
+thit, hanh
+bot canh
+xao thit bam va hanh

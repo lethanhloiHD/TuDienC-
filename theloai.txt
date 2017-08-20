@@ -1,0 +1,24 @@
+15
+Cho
+Dac diem; Mau sac; Gia tien;
+12
+Mon an
+Nguyen lieu; Gia vi; Cach lam;
+11
+The thao
+Luat choi; Lich su phat trien;
+1
+May tinh
+Hang may tinh; Thong so ky thuat; Gia tien;
+2
+Dien thoai
+Hang dien thoai; Tinh nang noi bat; Tong quan;
+3
+Quat
+Loai quat; Cong suat; Mau sac;
+4
+Xe may
+Hang xe; Loai xe; Dung tich xilanh; Tong quan;
+5
+O to
+Mau sac; Nhien lieu; Dong co; So cho ngoi;
